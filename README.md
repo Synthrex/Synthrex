@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Synthrex
-- 👀 I’m interested in physics, astronomy and of course coding
-- 🌱 I’m currently learning php and for tests in school
-- 💞️ I’m looking to collaborate on a website, a startup and a video game
-- 📫 How to reach me: I will get a website for communication soon but for now add me on discord: Synthrex#6925
+- 👋 Hi! :D
